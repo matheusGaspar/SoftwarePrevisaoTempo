@@ -108,7 +108,6 @@
 		AB5B1A16241678800020617A = {
 			isa = PBXGroup;
 			children = (
-				ABFB7D2624168AC400FE6678 /* Podfile */,
 				AB5B1A21241678800020617A /* SoftwarePrevisao */,
 				AB5B1A36241678830020617A /* SoftwarePrevisaoTests */,
 				AB5B1A41241678830020617A /* SoftwarePrevisaoUITests */,
@@ -131,6 +130,7 @@
 		AB5B1A21241678800020617A /* SoftwarePrevisao */ = {
 			isa = PBXGroup;
 			children = (
+				ABFB7D2624168AC400FE6678 /* Podfile */,
 				AB5B1A22241678800020617A /* AppDelegate.swift */,
 				AB5B1A24241678800020617A /* ViewController.swift */,
 				AB5B1A26241678800020617A /* Main.storyboard */,
